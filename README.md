@@ -1,4 +1,4 @@
-# Chat with Your Docs App
+# Personal Bot to Chat with your docs
 
 ## Introduction
 
